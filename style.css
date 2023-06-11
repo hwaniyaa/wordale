@@ -4,6 +4,7 @@ main {
   justify-content: center;
   align-items: center;
   gap: 5px;
+  font-weight: 900;
 }
 .board-row, .keyboard-row {
   display: flex;
@@ -18,4 +19,4 @@ main {
   border: 2px solid rgb(114, 114, 114);
   width: 60px;
   height: 60px;
-}sdfsfd
+}
